@@ -23,7 +23,7 @@ ERRO_AREAS = 1000;
 %ERRO = 0.5;
 %ERRO_AREAS = 0.5;
 
-arquivo = 'muca_frigori.d';
+arquivo = 'muca.d';
 
 % -- AQUISIÇÃO DE DADOS 
 dados = load('-ascii',arquivo);
